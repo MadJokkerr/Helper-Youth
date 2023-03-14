@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<h1 align="center"> Helper Youth </h1>
+<h1 align="center"> Helper Youth<sup> © </sup> </h1>
 
 <div align="center">
 
